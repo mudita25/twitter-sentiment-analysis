@@ -1,0 +1,6 @@
+#export SPARK_HOME="/home/mudita/ucsc-spark/spark-1.6.0-bin-hadoop2.6"
+
+export CONSUMER_KEY=32IKlJo5vf1cuzIcBVrSyiX0G
+export CONSUMER_SECRET=Lw0e9HeRmRdM1SZ81b4kRydWK34VmHFPKlQkFWISJKTpHxAtzk
+export ACCESS_TOKEN=704896008346537984-ER0O7IxIoNFYfixw2ahBZ75S6h2n1sk
+export ACCESS_TOKEN_SECRET=hd2siuBuyp9P8HDQQEfHXCf1NkwaFsMyPERyzl4EfhseC

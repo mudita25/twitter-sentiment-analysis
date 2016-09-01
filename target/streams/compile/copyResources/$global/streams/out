@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/mudita/Documents/sparkFinal/twitter-streaming/src/main/resources/pos-words.txt,/home/mudita/Documents/sparkFinal/twitter-streaming/target/scala-2.10/classes/pos-words.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/mudita/Documents/sparkFinal/twitter-streaming/src/main/resources/stop-words.txt,/home/mudita/Documents/sparkFinal/twitter-streaming/target/scala-2.10/classes/stop-words.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/mudita/Documents/sparkFinal/twitter-streaming/src/main/resources/log4j.properties,/home/mudita/Documents/sparkFinal/twitter-streaming/target/scala-2.10/classes/log4j.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/mudita/Documents/sparkFinal/twitter-streaming/src/main/resources/neg-words.txt,/home/mudita/Documents/sparkFinal/twitter-streaming/target/scala-2.10/classes/neg-words.txt)[0m
