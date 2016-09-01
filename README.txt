@@ -1,16 +1,5 @@
-#
-chmod +x submit.sh
-chmod +x sbt/sbt
+Twitter Sentiment Analysis
 
-# package
-./sbt/sbt assembly
-
-# update env.sh with path to Spark home directory and Twitter application keys
-
-# update submit.sh with your own twitter account
-
-
-# to submit your streaming app. 
-./submit 
+Leveraged Spark Streaming to consume Twitter data and perform sentiment analysis. Used windowed transformations to print out the results in every 10 and 15 seconds.
 
 
